@@ -75,6 +75,24 @@
 <code>
 <img src="https://img.icons8.com/ios-filled/26/4a90e2/mysql-logo.png"/>
 </code>
+<code>
+<img src="https://img.icons8.com/color/26/4a90e2/mongodb.png"/>
+</code>
+<code>
+<img src="https://img.icons8.com/dusk/26/4a90e2/webpack.png"/>
+</code>
+<code>
+<img src="https://img.icons8.com/color/26/4a90e2/bootstrap.png"/>
+</code>
+<code>
+<img src="https://img.icons8.com/color/26/4a90e2/tomcat.png"/>
+</code>
+<code>
+<img src="https://img.icons8.com/color/26/4a90e2/material-ui.png"/>
+</code>
+<code>
+<img src="https://img.icons8.com/officel/26/4a90e2/php-logo.png"/>
+</code>
 
 
 
@@ -82,6 +100,7 @@
 
 ---
 
+### Tools and Platforms
 
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
