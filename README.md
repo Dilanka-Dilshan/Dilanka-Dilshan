@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Designer and Lecturer !
 
-- 🔭 I’m currently working on a my projects!
+- 🔭 I’m currently working on my projects!
 - 🌱 I’m currently learning Fullstack Development.
 - 👯 I’m looking to collaborate with other content creators and Developers.
 - 🥅 2021 Goals: Contribute more to projects and Learn about new technologies.
