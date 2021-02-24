@@ -20,15 +20,15 @@
 
 ### Languages :
 
-[<code>
+<code>
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>]
-[<code>
+</code>
+<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>]
-[<code>
+</code>
+<code>
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>]
+</code>
 
 <br />
 ### Tools and Platforms :
