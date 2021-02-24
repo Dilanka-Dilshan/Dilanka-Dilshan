@@ -9,11 +9,10 @@
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="Sabesan" height="22px" src="./SocialLogo/Web.png" />][website]
-[<img align="left" alt="Sabesan | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Sabesan | Stackoverflow" height="22px" src="./SocialLogo/StackOverflow.png" />][stackoverflow]
-[<img align="left" alt="Sabesan | Skype" height="22px" src="./SocialLogo/Skype.png" />][skype]
-[<img align="left" alt="Sabesan | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
+<code>
+<a href="https://dilankadilshan.info/"><img src="https://img.icons8.com/ios-filled/64/4a90e2/domain.png"/></a>
+</code>
+
 <br />
 
 ---
@@ -132,7 +131,7 @@
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>
 <code>
-<img src="https://icon-library.net//images/phpmyadmin-icon/phpmyadmin-icon-15.jpg" width="26px" />
+<img src="https://img.icons8.com/dusk/26/4a90e2/dbeaver.png"/>
 </code>
 <code>
 <img src="https://img.icons8.com/ios-filled/26/4a90e2/mysql-logo.png"/>
