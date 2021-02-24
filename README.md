@@ -44,6 +44,15 @@
 <code>
 <img alt="sql" width="26px" src="https://img.icons8.com/color/26/000000/sql.png">
 </code>
+<code>
+<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
+</code>
+<code>
+<img src="https://img.icons8.com/ios-filled/26/4a90e2/c-sharp-logo.png"/>
+</code>
+<code>
+<img src="https://img.icons8.com/officel/26/4a90e2/php-logo.png"/>
+</code>
 
 <br />
 
@@ -73,7 +82,7 @@
 <img width="26px" src="https://img.icons8.com/ios-filled/50/000000/jquery.png">
 </code>
 <code>
-<img src="https://img.icons8.com/ios-filled/26/4a90e2/mysql-logo.png"/>
+<img src="https://img.icons8.com/metro/26/4a90e2/mysql.png"/>
 </code>
 <code>
 <img src="https://img.icons8.com/color/26/4a90e2/mongodb.png"/>
@@ -91,9 +100,8 @@
 <img src="https://img.icons8.com/color/26/4a90e2/material-ui.png"/>
 </code>
 <code>
-<img src="https://img.icons8.com/officel/26/4a90e2/php-logo.png"/>
+<img src="https://img.icons8.com/color/26/4a90e2/microsoft-sql-server.png"/>
 </code>
-
 
 
 <br />
@@ -102,52 +110,42 @@
 
 ### Tools and Platforms
 
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-</code>](https://www.jetbrains.com/idea/)
-[<code>
-<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
-</code>](https://www.jetbrains.com/pycharm/)
-[](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
-[<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>]
-[<code>
-<img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</code>](https://eslint.org/)
-[](https://nodejs.org/en/)
-[](https://dev.mysql.com/)
-[<code>
-<img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
-</code>](https://www.latex-project.org/)
-[<code>
-<img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
-</code>](https://www.markdownguide.org/)
-[<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
-<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://docs.microsoft.com/en-us/windows/terminal/)
-<br />
-[<code>
+<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
-[<code>
-<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</code>](https://ubuntu.com/)
-[<code>
-<img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
-</code>](https://developer.apple.com/macos/)
-[<code>
+</code>
+<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
+</code>
+<code>
+<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
+</code>
+<code>
+<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+</code>
+<code>
+<img src="https://img.icons8.com/nolan/26/java-eclipse.png"/>
+</code>
+<code>
+<img src="https://img.icons8.com/windows/26/4a90e2/netbeans.png"/>
+</code>
+<code>
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</code>
+<code>
+<img src="https://icon-library.net//images/phpmyadmin-icon/phpmyadmin-icon-15.jpg" width="26px" />
+</code>
+<code>
+<img src="https://img.icons8.com/ios-filled/26/4a90e2/mysql-logo.png"/>
+</code>
+<code>
+<img src="https://img.icons8.com/ios-filled/26/4a90e2/visual-studio-logo.png"/>
+</code>
+<code>
+<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
+</code>
+<code>
+<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
+</code>
+
+<br/>
+---
