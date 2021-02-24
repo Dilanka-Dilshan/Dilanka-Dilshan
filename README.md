@@ -29,8 +29,26 @@
 <code>
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>
+<code>
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+</code>
+<code>
+<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
+</code>
+<code>
+<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
+</code>
+<code>
+<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
+</code>
+<code>
+<img alt="sql" width="26px" src="https://img.icons8.com/color/26/000000/sql.png">
+</code>
 
 <br />
+
+---
+
 ### Tools and Platforms :
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
@@ -41,25 +59,13 @@
 [<code>
 <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
 </code>](https://www.jetbrains.com/pycharm/)
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
-</code>](https://www.typescriptlang.org/)
-[](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
-[<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
+</code>]
 [<code>
 <img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
 </code>](https://eslint.org/)
