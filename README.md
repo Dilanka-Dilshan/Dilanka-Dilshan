@@ -10,7 +10,13 @@
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 <code>
-<a href="https://dilankadilshan.info/"><img src="https://img.icons8.com/ios-filled/64/4a90e2/domain.png"/></a>
+<a href="https://dilankadilshan.info/"><img src="https://img.icons8.com/ios-filled/32/4a90e2/domain.png"/></a>
+</code>
+<code>
+<a href="https://www.linkedin.com/in/dilanka-dilshan/"><img src="https://img.icons8.com/fluent/32/4a90e2/linkedin.png"/></a>
+</code>
+<code>
+<a href="https://github.com/Dilanka-Dilshan"><img alt="github" width="32px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png"></a>
 </code>
 
 <br />
