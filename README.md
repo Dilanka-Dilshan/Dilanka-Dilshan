@@ -52,7 +52,7 @@
 ### Technical Stack :
 
 <code>
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png">
+<img width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png">
 </code>
 
 
