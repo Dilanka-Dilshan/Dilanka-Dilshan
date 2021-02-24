@@ -63,7 +63,18 @@
 <code>
 <img width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png">
 </code>
-
+<code>
+<img width="26px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+</code>
+<code>
+<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
+</code>
+<code>
+<img width="26px" src="https://img.icons8.com/ios-filled/50/000000/jquery.png">
+</code>
+<code>
+<img src="https://img.icons8.com/ios-filled/26/4a90e2/mysql-logo.png"/>
+</code>
 
 
 
@@ -92,9 +103,7 @@
 <img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
 </code>](https://eslint.org/)
 [](https://nodejs.org/en/)
-[<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
+[](https://dev.mysql.com/)
 [<code>
 <img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
 </code>](https://www.latex-project.org/)
