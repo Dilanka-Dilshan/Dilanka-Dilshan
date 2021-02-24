@@ -1,4 +1,4 @@
-### Hi there, I'm Sabesan Sathananthan - <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi there, I'm Dilanka Dilshan - <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
 ## I'm a Developer, Designer and Lecturer!
 
