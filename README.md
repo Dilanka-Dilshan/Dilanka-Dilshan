@@ -1,12 +1,11 @@
-### Hi there, I'm Sabesan Sathananthan - aka [Sabesan][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi there, I'm Sabesan Sathananthan - <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-## I'm a Student, Undergraduate, Developer, and Physics Teacher!
+## I'm a Developer, Designer and Lecturer!
 
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Fullstack and Machine Learning
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
-- ⚡ Fun fact: I love to play chess and listen music.
+- 🔭 I’m currently working on a my projects!
+- 🌱 I’m currently learning Fullstack Development.
+- 👯 I’m looking to collaborate with other content creators and Developers.
+- 🥅 2021 Goals: Contribute more to projects and Learn about new technologies.
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
